@@ -1,6 +1,6 @@
-# CrossCommerceTest
+# Cross Commerce Store
 
-Este teste foi feito para candidatura para uma vaga de Backend Elixir Junior na Cross Commerce.
+Esta aplicação deve buscar coleção de números do endereço *http://challenge.dienekes.com.br/api/numbers?page={pagina}* de todas as páginas que forem possíveis, deve transformar o esses números fazendo um ***SORT***(ordenação) e retornar esses números ordenados em uma endpoint.
 
 ### O que utilizei para realizar o teste
 
@@ -15,7 +15,7 @@ Este teste foi feito para candidatura para uma vaga de Backend Elixir Junior na 
 
 Este projeto foi bastante desafiador pelo que foi proposto, porém foi bem gratificante realiza-lo.
 
-### Dicas de teste
+### Dicas de uso
 
 - Quando o servidor estiver executando faça uma reuisição **GET** para ***url + /api/numbers***
 
